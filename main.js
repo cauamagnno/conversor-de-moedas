@@ -6,7 +6,7 @@ function fazGet(url){
     }
     
     let valor = document.getElementById("input");
-    let texto = "O valor convertido é : ";
+    let texto = "O valor convertido é: R$ ";
     
     function converterDolar(){
         
